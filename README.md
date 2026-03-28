@@ -1,5 +1,3 @@
-Logistic Regression classifier predicting voter turnout from demographic data using Scikit-Learn.
-
 # Voter Turnout Classification (Logistic Regression) 
 
 ## Project Overview
