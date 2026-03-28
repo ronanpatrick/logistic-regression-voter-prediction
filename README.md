@@ -30,7 +30,7 @@ This project builds a Machine Learning classifier to predict whether an individu
 
 ### Option 1: Run in Cloud (Recommended)
 You can view and run this notebook instantly in your browser using Google Colab. The dataset will automatically download to your session via the Kaggle API.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/logistic-regression-voter-prediction/blob/main/Logistic_Regression)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/logistic-regression-voter-prediction/blob/main/Logistic_Regression_voter.ipynb)
 
 ### Option 2: Run Locally
 1. Clone this repository: `git clone https://github.com/ronanpatrick/logistic-regression-voter-prediction.git`
